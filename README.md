@@ -1,4 +1,4 @@
-# thesis-rl-mastermind-battleship
+# Master thesis Reinforcement Learning with Mastermind & Battleship
 
 This repository contains the content of my thesis for the degree Master of Science, achieved by attenting the course Machine Learning & Data Analytics at the University Aalen, Germany.
 The thesis.pdf is the write-up of the project. 
